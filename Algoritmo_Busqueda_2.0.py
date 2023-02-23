@@ -58,7 +58,7 @@ def Termino():
         print()
 
         if bateria[0] < 1:
-            print("El robot a muerto, pero ha finalizado su tarea con exito.")
+            print("El robot ha muerto, pero ha finalizado su tarea con exito.")
             break
 
     
